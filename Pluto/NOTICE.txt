@@ -1,0 +1,1 @@
+This project is a demo scaffolding for a Pluto-themed OS emphasizing privacy and collaboration.
